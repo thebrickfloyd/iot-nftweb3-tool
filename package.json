@@ -1,0 +1,37 @@
+{
+  "name": "iot-nftweb3-tool",
+  "version": "1.0.0",
+  "description": "Integrate IoT devices with technologies, unlocking new possibilities for connected ecosystems.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebrickfloyd/iot-nftweb3-tool"
+  },
+  "author": "thebrickfloyd",
+  "license": "MIT",
+  "dependencies": {
+    "iot-nftweb3-tool": "1.0.0",
+    "iot-tool-nftweb3-integration": "1.0.0",
+    "supertest": "1.0.0",
+    "sequelize": "1.0.0",
+    "chalk": "1.0.0",
+    "react-dom": "1.0.0",
+    "mongoose": "1.0.0",
+    "truffle": "1.0.0",
+    "babel-core": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "socket.io": "1.0.0",
+    "web3-utils": "1.0.0",
+    "redux": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "react-redux": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "web3-react": "1.0.0",
+    "async": "1.0.0",
+    "moment": "1.0.0",
+    "debug": "1.0.0"
+  }
+}
